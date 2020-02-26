@@ -1,1 +1,0 @@
-See [Layering server profiles](../../pingidentity-devops-getting-started/docs/profilesLayered.md) for more information.

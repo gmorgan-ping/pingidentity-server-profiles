@@ -1,1 +1,0 @@
-See [Customizing server profiles](../../pingidentity-devops-getting-started/docs/profiles.md) for more information.
